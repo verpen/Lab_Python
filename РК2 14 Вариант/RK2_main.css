@@ -1,0 +1,47 @@
+body {            
+    background: #fff; 
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #545454;
+    font-family: 'Calibri', Calibri;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;  
+    max-width: 800px;
+    padding: 2em 2em 4em;
+}
+        h1, h2, h4 {
+    color: #222;
+    font-weight: 600;
+    line-height: 1.3;
+    text-align: center
+}
+      
+        .table1{
+            border-collapse: collapse; 
+            border: 1px solid #222; 
+            margin: 0 auto; 
+            border: 2px solid #222;
+            text-align: center          
+        }
+        .td_color  {
+    background-color: rgb(241, 229, 171);
+    color: #222;
+}
+        .td_color_1  {
+    background-color: rgb(255, 239, 213);
+    color: #222;
+}
+        caption{
+            color: #222;
+    font-weight: 600;
+    line-height: 2;
+    text-align: center
+        }
+        td {border-bottom: 1px solid #222;}
+        th {border: 2px solid #222;
+        li { 
+    list-style-position: inside;
+    color: #545454;
+    margin: 0 auto; 
+    line-height: 1.5;
+}       
